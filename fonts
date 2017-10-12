@@ -1,0 +1,66 @@
+<link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,800|PT+Sans:400,400i,700|Slabo+27px" rel="stylesheet">
+
+body (font-size: 16px}
+
+h1, h2, h3 {font-family: 'Montserrat', sans-serif;}
+
+h1 {
+  color: #8F0000;
+  font-size: 3.5em;
+  font-weight: 800;
+  padding-bottom: .5em;
+  text-transform: uppercase;
+  }
+ 
+ h2 {
+  color: #8F0000;
+  font-size: 2em;
+  font-weight: 600;
+  }
+
+ h3 {
+  color: #8F0000;
+  font-size: 1.75em;
+  font-weight: 400;
+  }
+
+li {
+  color: #CD0000;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 1em;
+  font-weight: 700;
+  }
+
+p {
+  color: #CD0000;
+  font-family: 'Slabo 27px', serif;
+  font-size: 1em;
+  }
+
+figcaption {
+  color: #0000ff;
+  font-family: 'PT Sans', sans-serif;
+  font-size: .75em;
+  font-weight: 400;
+  font-style: italic;
+  }
+  
+a:link {
+  font-family: 'Slabo 27px', serif;
+  font-size: 1em;
+  color: #0000ff;
+  }
+
+a:visited {
+  color: #00ff00;
+  text-decoration: none;
+  }
+
+a:hover {
+  color: #ff0000;
+  text-decoration: none;
+  }
+
+a:active {
+  color: #0000ff;
+  text-decoration: none;
