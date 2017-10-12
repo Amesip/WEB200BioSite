@@ -1,0 +1,8 @@
+img {
+  max-width: 500px;
+  max-height: 500px;
+  border: 20px solid #FF7F00;
+  border-radius: 10px;
+  -moz-border-raidus: 10px;
+  webkit-border-radius: 10px;
+  }
