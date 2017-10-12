@@ -1,0 +1,8 @@
+ul {
+  list-style: outside circle;
+  width: 750px;
+  {
+
+li {
+  margin: 10px; 0px; 0px; 0px;
+  }
