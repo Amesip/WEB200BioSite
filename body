@@ -1,0 +1,9 @@
+body {
+  background-color: #FFFFB2;
+  font-family: 'Montserrat', 'PT Sans', sans-serif, 'Slabo 27px', serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.6em;
+  }
+  
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,800|PT+Sans:400,400i,700|Slabo+27px" rel="stylesheet">
